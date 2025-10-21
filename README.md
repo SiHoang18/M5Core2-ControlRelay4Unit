@@ -1,4 +1,4 @@
-# [Tên Project của bạn]
+# [M5Core2-ControlRelay4Unit]
 
 Project này sử dụng M5Core để điều khiển một module relay. Người dùng có thể BẬT/TẮT relay bằng nút bấm và trạng thái (BAT/TAT) sẽ được hiển thị lên màn hình.
 
