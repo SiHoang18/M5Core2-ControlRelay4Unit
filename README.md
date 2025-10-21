@@ -29,4 +29,4 @@ Project này sử dụng **PlatformIO**. Cách cài đặt đơn giản nhất l
 Mở terminal (hoặc Git Bash) và clone project này về máy tính của bạn:
 
 ```bash
-git clone [URL-repository-project-của-bạn]
+git clone https://github.com/SiHoang18/M5Core2-ControlRelay4Unit.git
